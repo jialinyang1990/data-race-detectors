@@ -1,4 +1,4 @@
-Data race detectors built on top of Maple (https://github.com/jieyu/maple)
+Data race detectors built on top of Maple (https://github.com/jieyu/maple).
 
 ### Detectors
     \src\pintool\eraser         Eraser          [Savage S et al., 1997]
