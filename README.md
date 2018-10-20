@@ -5,7 +5,7 @@ Data race detectors built on top of Maple (https://github.com/jieyu/maple)
     \src\pintool\djit           Djit            [Pozniansky E, Schuster A, 2003]
     \src\pintool\fasttrack      FastTrack       [Flanagan C, Freund SN, 2009]
     \src\pintool\acculock       AccuLock        [Xie X, Xue J, 2011]
-    \src\pintool\multilock      MultiLock       [Xie X, Xue J, Zhang J, 2013]
+    \src\pintool\multilock      MultiLock-HB    [Xie X, Xue J, Zhang J, 2013]
     \src\pintool\histlock       HistLock        [Yang J, Yang C, Chan WK, 2016]
     \src\pintool\histlockplus   HistLock+       [Yang J, Jiang B, Chan WK, 2018]
 
